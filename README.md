@@ -6,7 +6,7 @@ Sou estudante de Desenvolvimento de Sistemas na EEEP Francisca Neilyta. Possuo e
 
 <h2 style="font-size: 1.25rem; font-weight: 600;">🎯 Objetivo</h2>
 <p>
-Atuar como Desenvolvedor Frontend e UX Designer, entregando interfaces modernas, funcionais e com foco em performance e acessibilidade.
+Atuar como <b> Desenvolvedor Frontend e UX Designer </b>, entregando interfaces modernas, funcionais e com foco em performance e acessibilidade.
 </p>
 
 <h2 style="font-size: 1.25rem; font-weight: 600;">🧠 Conhecimentos Técnicos</h2>
