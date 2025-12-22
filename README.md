@@ -4,7 +4,11 @@
 Sou Técnico em Análise e Desenvolvimento de Sistemas pela EEEP Francisca Neilyta. Tenho nível de inglês C1 e disponibilidade para aprender o que for preciso!
 </p>
 
+<!-- GitHub Stats -->
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo&show_icons=true&theme=transparent)
 
+
+<br>
 
 <h2 style="font-size: 1.25rem; font-weight: 600;">🧠 Conhecimentos Técnicos</h2>
 
@@ -49,11 +53,7 @@ Possuo uma base sólida em UX Design e Design Digital, com experiencia em:
 
 <hr>
 
-<!-- GitHub Stats -->
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo&show_icons=true&theme=transparent)
 
-
-<br>
 
 <!-- Contact -->
 <div> 
