@@ -1,13 +1,10 @@
 <h1 style="font-size: 1.5rem; font-weight: 700;">👋 Olá, me chamo Ricardo!</h1>
 
 <p>
-Sou Técnico em Análise e Desenvolvimento de Sistemas. Possuo experiência de mercado, trabalhando em projetos reais. Tenho nível de inglês C1 e disponibilidade para aprender o que for necessário!
+Sou Técnico em Análise e Desenvolvimento de Sistemas pela EEEP Francisca Neilyta. Tenho nível de inglês C1 e disponibilidade para aprender o que for preciso!
 </p>
 
-<h2 style="font-size: 1.25rem; font-weight: 600;">🎯 Objetivo</h2>
-<p>
-Atuar como <b> Desenvolvedor Frontend e UX Designer </b>, entregando interfaces modernas, funcionais e com foco em performance e acessibilidade.
-</p>
+
 
 <h2 style="font-size: 1.25rem; font-weight: 600;">🧠 Conhecimentos Técnicos</h2>
 
