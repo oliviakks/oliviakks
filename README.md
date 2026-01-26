@@ -5,7 +5,7 @@ Sou Técnica em Análise e Desenvolvimento de Sistemas pela EEEP Francisca Neily
 </p>
 
 <!-- GitHub Stats -->
-![Olivia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olivia&show_icons=true&theme=transparent)
+![Olivia Duarte's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliviakks&show_icons=true&theme=transparent)
 
 
 <br>
