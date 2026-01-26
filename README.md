@@ -1,11 +1,11 @@
-<h1 style="font-size: 1.5rem; font-weight: 700;">👋 Olá, me chamo Ricardo!</h1>
+<h1 style="font-size: 1.5rem; font-weight: 700;">👋 Olá, me chamo Olívia!</h1>
 
 <p>
-Sou Técnico em Análise e Desenvolvimento de Sistemas pela EEEP Francisca Neilyta. Tenho nível de inglês C1 e disponibilidade para aprender o que for preciso!
+Sou Técnica em Análise e Desenvolvimento de Sistemas pela EEEP Francisca Neilyta. Tenho nível de inglês C1 e disponibilidade para aprender o que for preciso!
 </p>
 
 <!-- GitHub Stats -->
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo&show_icons=true&theme=transparent)
+![Olivia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olivia&show_icons=true&theme=transparent)
 
 
 <br>
@@ -57,7 +57,7 @@ Possuo uma base sólida em UX Design e Design Digital, com experiencia em:
 
 <!-- Contact -->
 <div> 
-  <a href="mailto:ricardoduartedonascimento@gmail.com">
+  <a href="mailto:olipalitodn@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
