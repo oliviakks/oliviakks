@@ -1,7 +1,7 @@
 <h1 style="font-size: 1.5rem; font-weight: 700;">👋 Olá, me chamo Olívia!</h1>
 
 <p>
-Sou Técnica em Análise e Desenvolvimento de Sistemas pela EEEP Francisca Neilyta. Tenho nível de inglês C1 e disponibilidade para aprender o que for preciso!
+Sou Técnica em Análise e Desenvolvimento de Sistemas pela EEEP Francisca Neilyta. Tenho nível de inglês B2 e disponibilidade para aprender o que for preciso!
 </p>
 
 <!-- GitHub Stats -->
